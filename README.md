@@ -29,9 +29,20 @@ public class User{
 变量名词首字母小写
 
 ```java
-String firstName = "三";
-String lastName = "张";
+public class user{
+    String FirstName = "三";
+    String LastName = "张"; 
+}
 ```
+
+规范：
+
+Java
+
+- 类名 大驼峰命名法
+- 函数名 小驼峰命名法
+- 成员变量名 小驼峰命名法
+
 
 ### 何时使用空格
 
